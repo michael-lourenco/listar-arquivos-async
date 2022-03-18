@@ -10,6 +10,17 @@ yarn
 
 Na raiz do projeto, cirar uma pasta chamada `data` e colocar dentro dele arquivos e outras pastas para testar o código.
 
+Para executar o programa digite no terminal:
 
-## Fonte
-Baseado no video Canal [Zero Bugs](https://www.youtube.com/watch?v=qqtWEJCB-zw)
+```
+yarn start
+```
+
+## Fontes
+Baseado no video:
+
+Canal [Zero Bugs](https://www.youtube.com/watch?v=qqtWEJCB-zw)
+
+Para verificar se o arquivo existe:
+
+[Moonshoot](https://futurestud.io/tutorials/node-js-check-if-a-file-exists)
