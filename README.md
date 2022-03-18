@@ -15,7 +15,6 @@ Para executar o programa digite no terminal:
 ```
 yarn start
 ```
-
 ## Fontes
 Baseado no video:
 
