@@ -10,9 +10,10 @@ async function existsPath (directory) {
 }
 
 async function listDirectoryFiles(directory, files) {
-  if(!files)
+  if(!files){
     files = []
-
+  }
+    
   if(! await existsPath(directory)) {
     console.log("Directory does not exist.")
   } 
